@@ -1,0 +1,10 @@
+ECHO is on.
+
+# Ignore database file
+db.sqlite3
+
+# Ignore Python cache directory
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
